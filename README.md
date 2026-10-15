@@ -41,10 +41,9 @@ Robotic and sensor-based systems for monitoring crop health, soil conditions, an
 
 Robotic systems designed to automate the harvesting of fruits, vegetables, and specialty crops.
 
-- [Abundant Robotics](https://www.abundantrobotics.com/) — Robotic apple harvesting system using vacuum-based picking.
 - [Agrobot](https://www.agrobot.com/) — Robotic harvesting systems for strawberries and other crops.
 - [FFRobotics](https://ffrobotics.com/) — Autonomous fruit picking robots using computer vision and robotic arms.
-- [Octinion Rubion](https://octinion.com/rubion/) — Strawberry picking robot designed for greenhouse environments.
+- [Octinion Rubion](https://octinion.com/products/agricultural-robotics/rubion) — Strawberry picking robot designed for greenhouse environments.
 
 ## Robotics Platforms & Frameworks
 
