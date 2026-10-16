@@ -24,7 +24,7 @@
 Robotic systems designed for large-scale field operations such as planting, spraying, and tilling.
 
 - [AGCO Fendt GuideConnect](https://www.fendt.com/) — Autonomous tractor guidance system for coordinated field operations.
-- [John Deere Autonomous Tractor](https://www.deere.com/en/autonomous-tractor/) — Self-driving tractor for precision agriculture tasks.
+- [John Deere Autonomous Tractor](https://www.deere.com/en/technology-products/precision-ag-technology/) — Self-driving tractor for precision agriculture tasks.
 - [Naïo Technologies](https://www.naio-technologies.com/) — Autonomous robots for farming tasks such as hoeing and harvesting.
 - [Raven Autonomy](https://ravenind.com/) — Precision agriculture and autonomous solutions for field machinery.
 
